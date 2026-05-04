@@ -122,4 +122,4 @@ Tire charizard e coloque squirtle
 
 ## Autores
 
-Desenvolvido por [nome dos alunos] para a disciplina de Paradigmas de Linguagens — Instituto Federal de Minas Gerais, Campus Formiga.
+Desenvolvido por Augusto César Leal e Luis Fernando Almeida Nunes para a disciplina de Paradigmas de Linguagens — Instituto Federal de Minas Gerais, Campus Formiga.
