@@ -35,7 +35,7 @@ def menu_principal():
 
     while True:
         print("\n========================================")
-        print("   SISTEMA ESPECIALISTA POKEMON KANTO   ")
+        print("   SISTEMA ESPECIALISTA PROLOGDEX   ")
         print("========================================")
         print("1. Analise de Time (6 Pokemons)")
         print("2. Duelo entre dois Pokemons")
